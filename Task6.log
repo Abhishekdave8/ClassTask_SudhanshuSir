@@ -1,54 +1,54 @@
-2022-07-18 22:32:58,141 INFO This is string operations
-2022-07-18 22:32:58,141 INFO The input i have given is I am trying to learn Python
-2022-07-18 22:32:58,141 INFO The output is   ygoenyo
-2022-07-18 22:32:58,141 INFO The input i have given is I am trying to learn Python
-2022-07-18 22:32:58,141 INFO The output is nohtyP nrael ot gniyrt ma I
-2022-07-18 22:32:58,141 INFO The input i have given is I am trying to learn Python
-2022-07-18 22:32:58,141 INFO The output is ['I', 'AM', 'TRYING', 'TO', 'LEARN', 'PYTHON']
-2022-07-18 22:32:58,141 INFO The input i have given is I am trying to learn Python
-2022-07-18 22:32:58,141 INFO The output is i am trying to learn python
-2022-07-18 22:32:58,141 INFO The input i have given is I am trying to learn Python
-2022-07-18 22:32:58,141 INFO The output is I am trying to learn python
-2022-07-18 22:32:58,141 INFO The input i have given is 456456454
-2022-07-18 22:32:58,141 INFO The output is True
-2022-07-18 22:32:58,141 INFO The input i have given is happyme
-2022-07-18 22:32:58,141 INFO The output is True
-2022-07-18 22:32:58,141 INFO The input i have given is I am always the best	and also the santury	 sdjfkdj
-2022-07-18 22:32:58,141 INFO The output is I am always the best    and also the santury     sdjfkdj
-2022-07-18 22:32:58,141 INFO The input i have given is             dkf jkdjfkjdkfjdkfjkdjfkd                
-2022-07-18 22:32:58,141 INFO The output is dkf jkdjfkjdkfjdkfjkdjfkd
-2022-07-18 22:32:58,141 INFO The input i have given is             dkf jkdjfkjdkfjdkfjkdjfkd                
-2022-07-18 22:32:58,141 INFO The output is dkf jkdjfkjdkfjdkfjkdjfkd                
-2022-07-18 22:32:58,141 INFO The input i have given is             dkf jkdjfkjdkfjdkfjkdjfkd                
-2022-07-18 22:32:58,141 INFO The output is             dkf jkdjfkjdkfjdkfjkdjfkd
-2022-07-18 22:32:58,141 INFO The input i have given is hello money finder
-2022-07-18 22:32:58,141 INFO I want to changemoney by paisa
-2022-07-18 22:32:58,141 INFO The output is hello paisa finder
-2022-07-18 22:32:58,141 INFO The input i have given is Abhishek_Dave
-2022-07-18 22:32:58,141 INFO I want to center the string by90
-2022-07-18 22:32:58,141 INFO The output is @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Abhishek_Dave@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-2022-07-18 22:32:58,141 INFO This is list operations
-2022-07-18 22:32:58,141 INFO This is my try block and the list I have entered is[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
-2022-07-18 22:32:58,141 INFO The output is [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
-2022-07-18 22:32:58,141 INFO try blog is initiated and input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,141 INFO The output is [[1, 2, 3, 4], ['ineuron', 'data science']]
-2022-07-18 22:32:58,141 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,141 INFO The output is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
-2022-07-18 22:32:58,141 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,141 INFO The output is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
-2022-07-18 22:32:58,145 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,145 INFO The output is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23] and sum is 132
-2022-07-18 22:32:58,145 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,145 INFO The numeric data we got is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
-2022-07-18 22:32:58,145 INFO The odd data extracted is [1, 3, 3, 5, 3, 5, 7, 45, 5, 23]
-2022-07-18 22:32:58,145 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,145 INFO The complete data we got is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'k2', 'k3', 3, 7, 'sudh', 'ineuron', 'kumar', 6, 8, 'ineuron', 'data science']
-2022-07-18 22:32:58,145 INFO The right hand side is the occurence of data viz [(1, 1), (2, 2), (3, 4), (4, 4), (5, 3), (6, 3), (7, 2), ('sudh', 1), (8, 1), (45, 1), ('data science', 1), ('kumar', 1), ('k2', 1), (23, 1), ('k1', 1), ('k3', 1), ('ineuron', 2)]
-2022-07-18 22:32:58,145 INFO The input data is[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,145 INFO the output data is ['k1', 'k2', 'k3', 3, 7, 'sudh', 'ineuron', 'kumar', 6, 8]
-2022-07-18 22:32:58,146 INFO The input value is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,146 INFO The no of keys in a dictionary is [5]
-2022-07-18 22:32:58,146 INFO the input value is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,146 INFO The output value is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
-2022-07-18 22:32:58,146 INFO the input value is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
-2022-07-18 22:32:58,146 INFO The output value is [{45, 4, 5, 23}]
+2022-07-20 20:38:20,552 INFO This is string operations
+2022-07-20 20:38:20,552 INFO The input i have given is I am trying to learn Python
+2022-07-20 20:38:20,552 INFO The output is   ygoenyo
+2022-07-20 20:38:20,552 INFO The input i have given is I am trying to learn Python
+2022-07-20 20:38:20,552 INFO The output is nohtyP nrael ot gniyrt ma I
+2022-07-20 20:38:20,552 INFO The input i have given is I am trying to learn Python
+2022-07-20 20:38:20,552 INFO The output is ['I', 'AM', 'TRYING', 'TO', 'LEARN', 'PYTHON']
+2022-07-20 20:38:20,553 INFO The input i have given is I am trying to learn Python
+2022-07-20 20:38:20,553 INFO The output is i am trying to learn python
+2022-07-20 20:38:20,553 INFO The input i have given is I am trying to learn Python
+2022-07-20 20:38:20,553 INFO The output is I am trying to learn python
+2022-07-20 20:38:20,553 INFO The input i have given is 456456454
+2022-07-20 20:38:20,553 INFO The output is True
+2022-07-20 20:38:20,553 INFO The input i have given is happyme
+2022-07-20 20:38:20,553 INFO The output is True
+2022-07-20 20:38:20,553 INFO The input i have given is I am always the best	and also the santury	 sdjfkdj
+2022-07-20 20:38:20,553 INFO The output is I am always the best    and also the santury     sdjfkdj
+2022-07-20 20:38:20,553 INFO The input i have given is             dkf jkdjfkjdkfjdkfjkdjfkd                
+2022-07-20 20:38:20,553 INFO The output is dkf jkdjfkjdkfjdkfjkdjfkd
+2022-07-20 20:38:20,553 INFO The input i have given is             dkf jkdjfkjdkfjdkfjkdjfkd                
+2022-07-20 20:38:20,553 INFO The output is dkf jkdjfkjdkfjdkfjkdjfkd                
+2022-07-20 20:38:20,553 INFO The input i have given is             dkf jkdjfkjdkfjdkfjkdjfkd                
+2022-07-20 20:38:20,553 INFO The output is             dkf jkdjfkjdkfjdkfjkdjfkd
+2022-07-20 20:38:20,553 INFO The input i have given is hello money finder
+2022-07-20 20:38:20,553 INFO I want to changemoney by paisa
+2022-07-20 20:38:20,553 INFO The output is hello paisa finder
+2022-07-20 20:38:20,553 INFO The input i have given is Abhishek_Dave
+2022-07-20 20:38:20,553 INFO I want to center the string by90
+2022-07-20 20:38:20,553 INFO The output is @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Abhishek_Dave@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+2022-07-20 20:38:20,553 INFO This is list operations
+2022-07-20 20:38:20,553 INFO This is my try block and the list I have entered is[3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+2022-07-20 20:38:20,553 INFO The output is [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+2022-07-20 20:38:20,553 INFO try blog is initiated and input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The output is [[1, 2, 3, 4], ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The output is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+2022-07-20 20:38:20,553 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The output is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+2022-07-20 20:38:20,553 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The output is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23] and sum is 132
+2022-07-20 20:38:20,553 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The numeric data we got is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23]
+2022-07-20 20:38:20,553 INFO The odd data extracted is [1, 3, 3, 5, 3, 5, 7, 45, 5, 23]
+2022-07-20 20:38:20,553 INFO Input is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The complete data we got is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'k2', 'k3', 3, 7, 'sudh', 'ineuron', 'kumar', 6, 8, 'ineuron', 'data science']
+2022-07-20 20:38:20,553 INFO The right hand side is the occurence of data viz [(1, 1), (2, 2), (3, 4), (4, 4), (5, 3), (6, 3), (7, 2), ('k2', 1), ('k1', 1), ('kumar', 1), (8, 1), (45, 1), ('sudh', 1), ('k3', 1), ('data science', 1), ('ineuron', 2), (23, 1)]
+2022-07-20 20:38:20,553 INFO The input data is[[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO the output data is ['k1', 'k2', 'k3', 3, 7, 'sudh', 'ineuron', 'kumar', 6, 8]
+2022-07-20 20:38:20,553 INFO The input value is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The no of keys in a dictionary is [5]
+2022-07-20 20:38:20,553 INFO the input value is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The output value is [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+2022-07-20 20:38:20,553 INFO the input value is [[1, 2, 3, 4], (2, 3, 4, 5, 6), (3, 4, 5, 6, 7), {45, 4, 5, 23}, {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}, ['ineuron', 'data science']]
+2022-07-20 20:38:20,553 INFO The output value is [{45, 4, 5, 23}]
